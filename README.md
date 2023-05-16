@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="100"/>
 </div>
-<div id="badges">
+<div id="badges" style= align-items= "justify">
   <a href="https://www.linkedin.com/in/kevine-nzayanga/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
