@@ -23,7 +23,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevine-nzayanga&langs_count=20&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kevine-nzayanga&theme=highcontrast)](https://git.io/streak-stats)
 ### My Trophies:trophy: <!--My Trophies-->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kevine-nzayanga&theme=AtomOneLight&no-bg=false&no-frame=false&count_private=true)](https://github.com/Kevine-nzayanga/Kevine-nzayanga)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kevine-nzayanga&theme=tokyonight&no-bg=false&no-frame=false&count_private=true)](https://github.com/Kevine-nzayanga/Kevine-nzayanga)
 ## My Contribution Graph :bar_chart:
 [![Kevine Nzayanga's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kevine-nzayanga&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
