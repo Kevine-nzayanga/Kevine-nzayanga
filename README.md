@@ -19,6 +19,13 @@
   <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="400" height="300"/>
 </div>
 
+![Github stats](https://github-readme-stats.vercel.app/api?&username=Kevine-nzayanga&repo=Kevine-nzayanga&theme=highcontrast&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevine-nzayanga&langs_count=20&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kevine-nzayanga&theme=highcontrast)](https://git.io/streak-stats)
+### My Trophies:trophy: <!--My Trophies-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kevine-nzayanga&theme=tokyonight&no-bg=false&no-frame=false&count_private=true)](https://github.com/Kevine-nzayanga/Kevine-nzayanga)
+## My Contribution Graph :bar_chart:
+[![Kevine Nzayanga's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kevine-nzayanga&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **Kevine-nzayanga/Kevine-nzayanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
