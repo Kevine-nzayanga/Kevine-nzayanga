@@ -20,7 +20,7 @@
 </div>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?&username=Kevine-nzayanga&repo=Kevine-nzayanga&theme=highcontrast&show_icons=true&count_private=true)
-
+[![Kevine-nzayanga's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Kevine-nzayanga&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/Kevine-nzayanga)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kevine-nzayanga&theme=highcontrast)](https://git.io/streak-stats)
 
 <!--
